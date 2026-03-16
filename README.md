@@ -2,7 +2,7 @@
 
 ### 🚀 Lead of Sao Tin & Total-Random Team
 
-Chào mọi người! Tôi là một nhà phát triển yêu thích việc xây dựng ngôn ngữ lập trình, framework UI và duy trì các dự án mã nguồn mở bền vững. Tôi tin vào sức mạnh của cộng đồng và sự tỉ mỉ trong từng dòng code.
+Chào mọi người! Tôi là một nhà phát triển đam mê xây dựng ngôn ngữ lập trình, framework UI và duy trì các dự án mã nguồn mở bền vững. Tôi tin vào sức mạnh của cộng đồng và sự tỉ mỉ trong từng dòng code.
 
 ---
 
@@ -14,7 +14,7 @@ Chào mọi người! Tôi là một nhà phát triển yêu thích việc xây 
 
 * Tiếp quản và duy trì thư viện tạo số ngẫu nhiên PCG sau 4 năm tác giả gốc ngừng cập nhật.
 * Tích hợp hỗ trợ **Windows ARM64** và sửa các lỗi tương thích trên modern MSVC.
-* Cung cấp giải pháp số ngẫu nhiên hiệu suất cao cho các dự án như **SLiM** và **correctionlib**.
+* Cung cấp giải pháp số ngẫu nhiên hiệu suất cao cho các dự án lớn như **SLiM** và **correctionlib**.
 
 ### 💎 [Tinh Linh Programming Language](https://github.com/TinhLinhLang/TinhLinh)
 
@@ -22,7 +22,7 @@ Chào mọi người! Tôi là một nhà phát triển yêu thích việc xây 
 
 * Phát triển ngôn ngữ lập trình hiện đại với hai chế độ: Biên dịch (**Tinh**) và Thông dịch (**Linh**).
 * Tinh là compiler AOT dựa trên **LLVM**, hỗ trợ hiệu suất tối đa cho production.
-* **Self-hosting**: Đã đạt cột mốc Tinh có thể tự biên dịch chính mình vào tháng 3/2026.
+* **Self-hosting**: Đạt cột mốc Tinh có thể tự biên dịch chính mình vào tháng 3/2026.
 
 ### 🎨 [Guinevere Framework](https://github.com/GuinevereFramework/Guinevere)
 
@@ -36,8 +36,13 @@ Chào mọi người! Tôi là một nhà phát triển yêu thích việc xây 
 ## 📬 Kết nối với tôi (Connect with me)
 
 * **Email:** [JkarVN@hotmail.com](mailto:JkarVN@hotmail.com)
-* **Facebook:** [Jkar VN](https://www.facebook.com/profile.php?id=61579411317588)
-* **GitHub Organizations:** [Total-Random](https://www.google.com/search?q=https://github.com/Total-Random) & [TinhLinhLang](https://www.google.com/search?q=https://github.com/TinhLinhLang)
+* **Facebook:** [Jkar VN (Personal Profile)](https://www.facebook.com/profile.php?id=61579411317588)
+* **Tổ chức (Organizations):**
+* 🌌 [Sao Tin Team](https://github.com/SaoTin) (Lead)
+* 🎲 [Total-Random](https://www.google.com/search?q=https://github.com/Total-Random) (Lead)
+* 💎 [TinhLinhLang](https://www.google.com/search?q=https://github.com/TinhLinhLang) (Lead)
+
+
 
 ---
 
