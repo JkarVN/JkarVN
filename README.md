@@ -42,7 +42,7 @@ Chào mọi người! Tôi là một nhà phát triển đam mê xây dựng ng�
 * **Tổ chức (Organizations):**
 * 🌌 [Sao Tin Team](https://github.com/SaoTin) (Lead)
 * 🎲 [Total-Random](https://www.google.com/search?q=https://github.com/Total-Random) (Lead)
-* 💎 [TinhLinhLang](https://www.google.com/search?q=https://github.com/TinhLinhLang) (Lead)
+* 💎 [Ivy Programming Language](https://github.com/TheIvyProject/ivy) (Lead)
 
 
 
