@@ -16,13 +16,16 @@ Chào mọi người! Tôi là một nhà phát triển đam mê xây dựng ng�
 * Tích hợp hỗ trợ **Windows ARM64** và sửa các lỗi tương thích trên modern MSVC.
 * Cung cấp giải pháp số ngẫu nhiên hiệu suất cao cho các dự án lớn như **SLiM** và **correctionlib**.
 
-### 💎 [Tinh Linh Programming Language](https://github.com/TinhLinhLang/TinhLinh)
+### 💎 [Ivy Programming Language](https://github.com/TheIvyProject/ivy
+)
 
-**Role: Core Developer (Sao Tin Team)**
+**Role: Lead Maintainer (Sao Tin Team)**
 
-* Phát triển ngôn ngữ lập trình hiện đại với hai chế độ: Biên dịch (**Tinh**) và Thông dịch (**Linh**).
-* Tinh là compiler AOT dựa trên **LLVM**, hỗ trợ hiệu suất tối đa cho production.
-* **Self-hosting**: Đạt cột mốc Tinh có thể tự biên dịch chính mình vào tháng 3/2026.
+* Một ngôn ngữ lập trình hệ thống hiện đại được xây dựng trên nền tảng của C++, được củng cố bằng tính an toàn bộ nhớ tại thời điểm biên dịch, các lớp trừu tượng không tốn chi phí và giao diện người dùng dễ sử dụng.
+* Dự trên cú pháp giống 80% C++
+* Cấu trúc bộ nhớ và ABI tương tích hoàn toàn C++. Zero-FFI Cost
+
+
 
 ### 🎨 [Guinevere Framework](https://github.com/GuinevereFramework/Guinevere)
 
