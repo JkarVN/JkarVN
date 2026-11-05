@@ -16,8 +16,7 @@ Chào mọi người! Tôi là một nhà phát triển đam mê xây dựng ng�
 * Tích hợp hỗ trợ **Windows ARM64** và sửa các lỗi tương thích trên modern MSVC.
 * Cung cấp giải pháp số ngẫu nhiên hiệu suất cao cho các dự án lớn như **SLiM** và **correctionlib**.
 
-### 💎 [Ivy Programming Language](https://github.com/TheIvyProject/ivy
-)
+### 💎 [Ivy Programming Language](https://github.com/TheIvyProject/ivy)
 
 **Role: Lead Maintainer (Sao Tin Team)**
 
